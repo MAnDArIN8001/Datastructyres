@@ -12,3 +12,4 @@ D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\refint\Datastructyres
 D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.pdb
 D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.genruntimeconfig.cache
 D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\ref\Datastructyres.dll
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.sourcelink.json

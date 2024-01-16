@@ -90,11 +90,27 @@ namespace Datastructyres.Structyres {
             OutputNode(_root);
         }
 
+        public List<T> ToList() {
+            List<T> nodes = new List<T>();
+
+            GetNode(_root, nodes);
+            
+            return nodes;
+        }
+
         private void OutputNode(Node<T> node) { 
             if(node is not null) {
                 OutputNode(node.leftNode);
                 Console.Write(node.value + " ");
                 OutputNode(node.rightNode);
+            }
+        }
+
+        private void GetNode(Node<T> node, List<T> nodes) {
+            if (node is not null) {
+                GetNode(node.leftNode, nodes);
+                nodes.Add(node.value);
+                GetNode(node.rightNode, nodes);
             }
         }
     }   
