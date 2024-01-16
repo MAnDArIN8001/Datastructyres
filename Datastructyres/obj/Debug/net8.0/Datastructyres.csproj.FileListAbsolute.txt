@@ -1,0 +1,14 @@
+D:\Programs\Datastructyres\Datastructyres\bin\Debug\net8.0\Datastructyres.exe
+D:\Programs\Datastructyres\Datastructyres\bin\Debug\net8.0\Datastructyres.deps.json
+D:\Programs\Datastructyres\Datastructyres\bin\Debug\net8.0\Datastructyres.runtimeconfig.json
+D:\Programs\Datastructyres\Datastructyres\bin\Debug\net8.0\Datastructyres.dll
+D:\Programs\Datastructyres\Datastructyres\bin\Debug\net8.0\Datastructyres.pdb
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.AssemblyInfoInputs.cache
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.AssemblyInfo.cs
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.csproj.CoreCompileInputs.cache
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.dll
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\refint\Datastructyres.dll
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.pdb
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\Datastructyres.genruntimeconfig.cache
+D:\Programs\Datastructyres\Datastructyres\obj\Debug\net8.0\ref\Datastructyres.dll
