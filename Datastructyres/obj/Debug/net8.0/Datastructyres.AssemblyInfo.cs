@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Datastructyres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0db417cb4cb48f8f006ff7670dc82630d05d4dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6e25eb7cd45c07c900af223aea32ddb49335bf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Datastructyres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Datastructyres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
